@@ -1,4 +1,4 @@
-# House-Sales-in-King-County-USA
+# Data Analysis with Python: King County House Sales Analysis
 
 As a Data Analyst for a Real Estate Investment Trust (REIT) that aims to invest in residential real estate. The primary task is to determine the market price of houses based on a set of features. By analyzing and predicting housing prices, I will assist the REIT in making informed investment decisions. The project revolves around a dataset that contains house sale prices for King County, which includes Seattle. The dataset covers the period between May 2014 and May 2015. The original dataset was obtained from a reliable source and has been slightly modified for the purposes of this project.
 
